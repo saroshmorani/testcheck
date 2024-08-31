@@ -11,3 +11,6 @@ git status
 git add
 git commit
 ```
+1.john\
+2.josh\
+3.job\
