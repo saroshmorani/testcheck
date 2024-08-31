@@ -11,6 +11,3 @@ git status
 git add
 git commit
 ```
--george washington
- *john adamms
- +john quincy adamms
