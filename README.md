@@ -13,7 +13,7 @@ git commit
 ```
 1.john\
 2.josh\
-3.job
+3.job\
 1.First nested list item\
-    - second nested list item\
-     - third nested list item
+    -second nested list item\
+     -third nested list item
